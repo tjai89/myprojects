@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="jquery css.css">
+	 <script type="text/javascript" src="jscript.js"></script>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="ready">I'm ready!</div>
+	<div id="notready">You'll never take me alive, jQuery!</div>
+</body>
+</html>
